@@ -60,7 +60,7 @@ Utilizing 1D & 2D arrays, for & while loops, 1 main method to invoke all 4 speci
 
 - Output: Matrix of Integers (matrix)
 
-### Printing the report:
+### Printing the report's IPO:
 
 - Method’s name: admissionReport
 
