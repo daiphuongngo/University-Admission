@@ -1,5 +1,14 @@
 # Univeristy-Admission
 
+### Category:
+
+- Education
+
+- Schooling
+
+- Admission
+
+
 ### Targets:
 
 - Store information about the newly admitted students
