@@ -1,4 +1,4 @@
-# Univeristy-Admission
+# University-Admission
 
 ### Category:
 
@@ -47,7 +47,7 @@ Utilizing 1D & 2D arrays, for & while loops, 1 main method to invoke all 4 speci
 
 - Process: Loop through if-else conditions to return if the password is valid or not
 
-- Output: Boolen
+- Output: Boolean
 
 ### Entering number of students's IPO:
 
@@ -59,7 +59,7 @@ Utilizing 1D & 2D arrays, for & while loops, 1 main method to invoke all 4 speci
  
 - Output: numStudent(Integer)
 
-### Entering, calculating GPA & assigning schools's IPO:
+### Entering, calculating GPA & assigning schools' IPO:
 
 - Method’s name: enterMark
 
